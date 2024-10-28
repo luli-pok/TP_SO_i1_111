@@ -1,6 +1,7 @@
 
 Nombre: Lucia     Apellido: Pokoik
 Hora: 12:19
+<<<<<<< HEAD
 IP: 192.168.0.38
 
 Nombre: Alejo Apellido: Perez 
@@ -8,3 +9,11 @@ IP de maquina: 192.168.0.113
 Hora: 12:15
 
 
+=======
+IP: matches
+=======
+Nombre: Alejo Apellido: Perez 
+IP de maquina: 192.168.0.113 
+Hora: 12:15
+>>>>>>> eade8849ab5d57d4d38bdbc12bae405e3e4ff0e1
+>>>>>>> 9a545db34da18971c34dbb97ab5c2baccf85fc70
