@@ -1,3 +1,8 @@
 Participantes de la interacción:
 1. Lucia Pokoik
 2. Alejo Perez
+
+ a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+Alfa: si, se pueden ver los datos que cargaron los demas integrantes.
+ b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+Alfa: Si, los demas integrantes pueden ver todo lo que yo cargo en el git.
