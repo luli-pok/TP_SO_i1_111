@@ -6,3 +6,8 @@ Participantes de la interacción:
 Alfa: si, se pueden ver los datos que cargaron los demas integrantes.
  b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Alfa: Si, los demas integrantes pueden ver todo lo que yo cargo en el git.
+
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+Beta: los demas integrantes pueden ver el archivo que subió Beta.
+d-¿De qué forma se comunicaron ustedes?
+Beta: nos comunicamos a través de Discord, WhatsApp y los commits de GitHub.
